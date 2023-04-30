@@ -28,6 +28,10 @@ pnpm dev
 pnpm build
 ```
 
+### Tailwindcss
+
+https://tailwindcss.com/docs/guides/vite#vue
+
 ### Vue router
 
-https://router.vuejs.org/
+https://router.vuejs.org

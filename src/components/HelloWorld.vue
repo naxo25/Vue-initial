@@ -7,5 +7,5 @@ defineProps({
 </script>
 
 <template>
-  <h1>{{ msg }}</h1>
+  <h1 class='text-center p-11'>{{ msg }}</h1>
 </template>
