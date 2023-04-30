@@ -34,9 +34,28 @@ pnpm build
 pnpm test
 ```
 
+### Run Format Code with [Prettier](https://prettier.io/docs/en/configuration.html)
+
+```sh
+pnpm format
+```
+
 ### Tailwindcss
 
 https://tailwindcss.com/docs/guides/vite#vue
+
+### Vitest
+
+https://vitest.dev
+
+
+### Vue test utils
+
+https://test-utils.vuejs.org/guide
+
+### Prettier
+
+https://prettier.io/docs/en/configuration.html
 
 ### Vue router
 

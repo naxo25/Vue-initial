@@ -6,7 +6,7 @@ const routes = [
     component: () => import('@/layouts/layout.vue'),
     children: [
       { path: '/', component: () => import('@/views/home.vue') },
-      { path: '/about', component: () => import('@/views/about.vue') },
+      { path: '/about', component: () => import('@/views/about.vue') }
     ]
   },
 
@@ -16,12 +16,9 @@ const routes = [
   }
 ]
 
-
 const router = createRouter({
   history: createWebHashHistory(),
-  routes,
+  routes
 })
 
-export {
-  router
-}
+export { router }
