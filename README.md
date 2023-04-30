@@ -27,3 +27,7 @@ pnpm dev
 ```sh
 pnpm build
 ```
+
+### Vue router
+
+https://router.vuejs.org/
