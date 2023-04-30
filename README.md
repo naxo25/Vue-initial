@@ -40,6 +40,12 @@ pnpm test
 pnpm format
 ```
 
+### Run Linter Fix with [StandardJs](https://standardjs.com)
+
+```sh
+pnpm lint
+```
+
 ### Tailwindcss
 
 https://tailwindcss.com/docs/guides/vite#vue
@@ -48,7 +54,6 @@ https://tailwindcss.com/docs/guides/vite#vue
 
 https://vitest.dev
 
-
 ### Vue test utils
 
 https://test-utils.vuejs.org/guide
@@ -56,6 +61,10 @@ https://test-utils.vuejs.org/guide
 ### Prettier
 
 https://prettier.io/docs/en/configuration.html
+
+### StandardJs
+
+https://standardjs.com
 
 ### Vue router
 
