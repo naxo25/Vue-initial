@@ -28,6 +28,12 @@ pnpm dev
 pnpm build
 ```
 
+### Run Unit Tests with [Vitest](https://vitest.dev/)
+
+```sh
+pnpm test
+```
+
 ### Tailwindcss
 
 https://tailwindcss.com/docs/guides/vite#vue

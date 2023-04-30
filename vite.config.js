@@ -10,6 +10,10 @@ export default defineConfig({
       '@': resolve(__dirname, 'src')
     }
   },
+  test: {
+    globals: true,
+    environment: 'jsdom'
+  },
   build: {
     outDir: 'dist'
   },
