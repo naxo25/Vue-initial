@@ -4,9 +4,10 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "dev": "vite",
+    "dev": "vite --open",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "git": "brave-browser https://github.com/naxo25/Vue-initial"
   },
   "dependencies": {
     "vue": "^3.2.47"
